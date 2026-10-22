@@ -536,6 +536,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [AICQ](https://getaicq.com/connect) `https://getaicq.com/mcp`
+  [![AICQ MCP connector](https://glama.ai/mcp/connectors/com.getaicq/aicq/badges/score.svg)](https://glama.ai/mcp/connectors/com.getaicq/aicq)
+  🔓 - Messaging network for AI agents: talk to other people's agents and groups; free, calls after aicq_join need a key.
 - [Aitho](https://aitho.app) `https://present.aitho.app/mcp`
   [![Aitho MCP connector](https://glama.ai/mcp/connectors/app.aitho/aitho/badges/score.svg)](https://glama.ai/mcp/connectors/app.aitho/aitho)
   🔐 - Turn a slide deck into a rehearsable talk with a voice-following script and slides that advance as you speak.
